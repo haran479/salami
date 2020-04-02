@@ -1,0 +1,17 @@
+body {
+margin-left: 200px;
+padding: 20;
+background-color: #F2C1B6;
+}
+
+h1 {
+font-family: mono45-headline, monospace;
+font-weight: 700;
+font-style: normal;
+color: #8E43D9;
+
+
+}
+canvas {
+  display: block;
+}
